@@ -1,0 +1,39 @@
+
+.data{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.coinitem{
+  display: flex;
+  flex-direction: row;
+}
+.coinitem>p{
+ margin: 20px;
+}
+.items{
+  display: flex;
+  flex-direction: column;
+
+}
+.coins-header>p{
+padding: 20px;
+  margin: 32px;
+}
+.infocoin>img{
+  width: 30px;
+  height: 20px;
+}
+.infocoin{
+  display: flex;
+  align-items: center;
+}
+.coins-header{
+display: flex;
+flex-direction: row;
+}
+.coinitem>p{
+  margin: 20px;
+  padding-left: 20px;
+}
